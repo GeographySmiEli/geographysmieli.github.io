@@ -47,7 +47,7 @@ h1, .page-title h1, h2, .section-heading h2, h3, .probootstrap-card .probootstra
   margin: 1.414em 0 0.5em;
   line-height: 1.2;
   font-weight: 300;
-  color: #14396d;
+  color: #ffffff;
 }
 
 h1, .page-title h1 {
@@ -78,11 +78,11 @@ p, ul, ol, figure {
 a {
   -webkit-transition: .3s all;
   transition: .3s all;
-  color: #5068A9;
+  color: #000000;
 }
 
 a:hover, a:focus {
-  color: #485d98;
+  color: #984887;
   text-decoration: none !important;
 }
 
@@ -115,7 +115,7 @@ a:hover, a:focus {
 }
 
 .probootstrap-logo:hover, .probootstrap-logo:focus, .probootstrap-logo:active {
-  color: #5068A9;
+  color: #eaa8f7;
 }
 
 @media screen and (max-width: 768px) {
@@ -142,7 +142,7 @@ a:hover, a:focus {
   z-index: 1100;
   height: 100vh;
   width: 300px;
-  background: #000000;
+  background: #ffffff;
   padding: 40px;
   -webkit-transition: .3s all ease-out;
   transition: .3s all ease-out;
@@ -223,17 +223,17 @@ a:hover, a:focus {
 .probootstrap-main-nav li a {
   font-weight: 400;
   padding: 10px 0;
-  color: #a4abb6;
+  color: #eaa8f7;
   text-transform: uppercase;
   letter-spacing: .1em;
 }
 
 .probootstrap-main-nav li a:hover {
-  color: #8791a0;
+  color: #eaa8f7;
 }
 
 .probootstrap-mobile-menu-active.show .probootstrap-main-nav li a {
-  color: #5068A9;
+  color: #000000;
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li a {
@@ -247,15 +247,15 @@ a:hover, a:focus {
 }
 
 .probootstrap-main-nav li.active a {
-  color: #5068A9;
+  color: #eaa8f7;
 }
 
 .probootstrap-main-nav li.active a:hover {
-  color: #5068A9;
+  color: #eaa8f7;
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li.active a {
-  color: #ffffff;
+  color: #eaa8f7;
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li {
@@ -436,7 +436,7 @@ a:hover, a:focus {
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   background: #5f76b3;
-  color: #ffffff;
+  color: #eaa8f7;
   border: 2px solid #5f76b3;
 }
 
@@ -542,11 +542,11 @@ a:hover, a:focus {
 }
 
 .probootstrap-section.probootstrap-section-colored .heading-with-icon, .probootstrap-section.probootstrap-section-dark .heading-with-icon {
-  color: #5068A9;
+  color: #3f95a6ff;
 }
 
 .probootstrap-section.probootstrap-section-colored .heading-with-icon i, .probootstrap-section.probootstrap-section-dark .heading-with-icon i {
-  color: #5068A9;
+  color: #3f95a6ff;
 }
 
 .probootstrap-section.probootstrap-section-colored p, .probootstrap-section.probootstrap-section-dark p {
@@ -683,7 +683,7 @@ a:hover, a:focus {
 }
 
 .probootstrap-owl-navigation li a:hover {
-  color: #333333;
+  color: #eaa8f7;
 }
 
 .probootstrap-footer {
@@ -769,7 +769,7 @@ a:hover, a:focus {
 }
 
 .stack-link a:hover small {
-  color: #ffffff;
+  color: #eaa8f7;
 }
 
 .section-heading {
@@ -1249,7 +1249,7 @@ figure:hover figcaption, figure:focus figcaption {
 }
 
 .probootstrap-home-search a:hover {
-  color: white;
+  color: #000000;
 }
 
 .probootstrap-home-search .heading {
@@ -1587,7 +1587,7 @@ figure:hover figcaption, figure:focus figcaption {
 
 .probootstrap-lg-service .icon i {
   font-size: 200px;
-  color: #5068A9;
+  color: #3f95a6ff;
 }
 
 .probootstrap-hover-overlay {
@@ -1729,7 +1729,7 @@ figure:hover figcaption, figure:focus figcaption {
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
   font-size: 30px;
-  color: #5068A9;
+  color: #3f95a6ff;
 }
 
 .service p:last-child {
@@ -1870,7 +1870,7 @@ figure:hover figcaption, figure:focus figcaption {
 }
 
 .with-icon.colored i {
-  color: #5068A9;
+  color: #3f95a6ff;
 }
 
 .probootstrap-section-heading .sub-heading {
@@ -1970,7 +1970,7 @@ figure:hover figcaption, figure:focus figcaption {
 
 .flexslider .probootstrap-sub-wrap a, .flexslider2 .probootstrap-sub-wrap a {
   color: rgba(255, 255, 255, 0.8);
-  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.795);
 }
 
 .flexslider .probootstrap-sub-wrap a:hover, .flexslider2 .probootstrap-sub-wrap a:hover {

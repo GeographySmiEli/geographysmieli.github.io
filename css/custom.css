@@ -1,13 +1,80 @@
 /* Your custom css code goes here */
 .grow { 
     transition: all .2s ease-in-out; 
-    }
+}
     
-    .grow:hover { 
+.grow:hover { 
     transform: scale(1.1); 
-    }
+}
 
-    .container {
+.container {
         overflow: hidden;
       }
-      
+
+.navbar-default {
+        background-color: #333333;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+#myMap { height: 600px; }
+
+#BigCircle {
+        width: 100px;
+        height: 100px;
+        background: red;
+        -moz-border-radius: 50px;
+        -webkit-border-radius: 50px;
+        border-radius: 50px;
+        color: "rgb(238, 0, 0)";
+        weight: 1;
+        opacity: 0.5;
+}
+
+#SmallCircle {
+        width: 1px;
+        height: 1px;
+        background: red;
+        -moz-border-radius: 50px;
+        -webkit-border-radius: 50px;
+        border-radius: 50px;
+        color: "rgb(238, 0, 0)";
+        weight: 1;
+        opacity: 0.5;
+}
+.aCustomC {
+	padding: 5px 5px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	background: rgba(102,102,102,0.7);
+        width: 220px;
+        height: 320px;
+        margin-right: 20px;
+}
+
+
+.leaflet-touch .leaflet-sidebar > .leaflet-control {
+    box-shadow: none;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    background-clip: padding-box;
+    border-radius: 50%;
+    height: 300px;
+}
+
+.legend {
+    line-height: 18px;
+    color: #8a8888;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+.MeteorWebmap {
+    color: black;
+}
